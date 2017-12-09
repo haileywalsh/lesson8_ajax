@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Hailey Walsh
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson we used API, Ajax and Json to format a webpage that linked to a seminole movie connection
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://haileywalsh.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. More in depth application of how to properly use Ajax
+2. How to link an API code 
+3. How to retrieve values using JSON
